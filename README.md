@@ -106,6 +106,7 @@ npm start
 [sqlite3]: https://github.com/mapbox/node-sqlite3
 [tsnode]: https://github.com/TypeStrong/ts-node
 [feather_icons]: https://feathericons.com/
+[font_awesome]: https://github.com/FortAwesome/Font-Awesome
 [insomnia]: https://insomnia.rest/
 [react_leaflet]: https://react-leaflet.js.org/
 [react_router_dom]: https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom
